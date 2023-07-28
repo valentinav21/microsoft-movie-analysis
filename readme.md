@@ -61,8 +61,6 @@ While low budget movies can certainly be profitable, **mid (\\$5 to \\$50 millio
 
 Directors are the creative leads of the film. It is critical to select directors that know how to turn ideas into profitable products (aka films). Lets find current directors with the highest good success records in delivering profitable films. 
 
-Moving forward in this analysis, I will remove low budget films since these films would not meet Microsoft's financial or cultural goals.
-
 To narrow down results, I will check the top 30 directors based on financial results. 
 
 ![Top 30 Directors by Avg Net Profit ](Images/v4.png)
